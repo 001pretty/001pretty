@@ -1,7 +1,7 @@
 <h1 align="center">Hi and welcome 👋</h1>
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow.jpg" />
+  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow2.jpg" />
 </p>
 
 <p align="center">
