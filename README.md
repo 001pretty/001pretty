@@ -6,15 +6,15 @@
 <br />
 <br />
 
-<p align="center"> 
-</p>
-
 I'm **Oliver**, a **javascript developer** primarily focusing on frontend from **Slovakia**. I love web development and meeting open-minded people.
 
 <!-- * 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff) -->
+
+<br />
+<br />
 
 ## My stack
 
