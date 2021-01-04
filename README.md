@@ -16,8 +16,8 @@ I'm a **javascript developer** primarily focusing on frontend from **Slovakia**.
 ## My stack
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/pack.png" />
+  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/stack.png" />
 </p>
 
-<br/> 
+<br/>  
 <br/>
