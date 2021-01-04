@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h2 align="center">Hey there 👋</h2>
 
 <p align="center"> 
   <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow4.jpg" />
