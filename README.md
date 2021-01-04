@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
 </p>
 
-I'm a **javascript developer** primarily focusing on frontend from **Slovakia**. I love web development and meeting open-minded people.
+I'm **Oliver**, a **javascript developer** primarily focusing on frontend from **Slovakia**. I love web development and meeting open-minded people.
 
 <!-- * 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
