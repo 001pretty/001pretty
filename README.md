@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋</h2>
 
 <p align="center"> 
-  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow4.jpg" />
+  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow4b.jpg" />
 </p>
 <br />
 <br />
@@ -13,7 +13,6 @@ I'm **Oliver**, a **javascript developer** primarily focusing on frontend from *
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff) -->
 
-<br />
 <br />
 
 ## My stack
