@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/lakee3.png" />
+  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow4.jpg" />
 </p>
  
 <h1 align="center">Hi and welcome 👋</h1>
