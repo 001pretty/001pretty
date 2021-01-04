@@ -3,9 +3,9 @@
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/yellow4.jpg" />
 </p>
+<br />
+<br />
 
-<br />
-<br />
 I'm **Oliver**, a **javascript developer** primarily focusing on frontend from **Slovakia**. I love web development and meeting open-minded people.
 
 <!-- * 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
