@@ -1,6 +1,10 @@
 <h1 align="center">Hi and welcome 👋</h1>
 
 <p align="center">
+  <img align="center" alt="Skills" src="https://github.com/001pretty/001pretty/blob/main/img/banner-snow.jpg" />
+</p>
+
+<p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
   <a href="https://twitter.com/TrustedSheriff">Twitter</a> •
   <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
